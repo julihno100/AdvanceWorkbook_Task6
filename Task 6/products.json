@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "CPU",
+        "price": 275,
+        "image": "images/cpuBOX.jpg",
+        "description": "CPU CyberGeek Nano Win 11 PRO Mini"
+    },
+    {
+        "id": 2,
+        "name": "Keyboard",
+        "price": 35,
+        "image": "images/keyboardLogi.jpg",
+        "description": "Logitech MX Mechanic Mini"
+    },
+    {
+        "id": 3,
+        "name": "Monitor",
+        "price": 125,
+        "image": "images/monitorLogi.jpg",
+        "description": "Logitech Monitor IPS Full HD , 75Hz, 5ms, 1080p"
+    },
+    {
+        "id": 4,
+        "name": "Mouse",
+        "price": 58,
+        "image": "images/mouseLogi.jpg",
+        "description": "Logitech G502 HERO - High- Performance Wired Mouse"
+    },
+    {
+        "id": 5,
+        "name": "Webcam",
+        "price": 68,
+        "image": "images/webCamLogi.jpg",
+        "description": "Logitech C920x HD PRO Webcam"
+    },
+    {
+        "id": 6,
+        "name": "Motherboard",
+        "price": 359,
+        "image": "images/motherboardLogi.jpg",
+        "description": "Asus motherboard Intel B85"
+    },
+    {
+        "id": 7,
+        "name": "Fan",
+        "price": 15,
+        "image": "images/fan.jpg",
+        "description": "Noctua NF-P12 redux-1700 PWM"
+    },
+    {
+        "id": 7,
+        "name": "Ram",
+        "price": 85,
+        "image": "images/Ram.jpg",
+        "description": "Crucial Ram 32GB kit DDR4 3200MHz CL22"
+    },
+    {
+        "id": 8,
+        "name": "Hard Disk",
+        "price": 70,
+        "image": "images/hardDisk.jpg",
+        "description": "Seagate 10TB 7200 RPM Hard Disk"
+    }
+]
